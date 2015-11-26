@@ -1,0 +1,72 @@
+/*  Stalying the NAV */
+
+.nav-bar{
+	overflow: hidden; /*clearing the floats on title and navlist*/
+	background-color: #3cb9d5;
+	height: 60px;
+	color: white;
+	padding: 0 30px;
+}
+
+.title{
+	float: right;
+	line-height: 60px;
+	margin: 0;
+}
+
+.logo{
+	float: right;
+	line-height: 60px;
+	padding: 10px;
+}
+
+.nav-list{
+	float: left;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.nav-list li{
+	display: inline-block;
+	font-size: 12px;
+	text-transform: uppercase;
+	line-height: 60px;
+}
+
+.nav-list li a{
+	text-decoration: none;
+	color: #303D9D;
+	padding: 10px;
+}
+
+.container{
+	overflow: auto;
+	width: 100%;
+	/*background-color: #004D67;*/
+}
+
+/*customize sidr CSS*/
+.sidr{
+	position:fixed;
+	top:auto;
+}
+
+
+.hamburger {
+    /*position: fixed;
+    top: 0.5em;
+    right: 1em;*/
+    cursor: pointer;
+    padding-top: 20px;
+}
+
+.hamburger span {
+    background-color: #E42338;
+    display: block;
+    /*border-radius: 0.33333em;*/
+    height: 0.33333em;
+    margin: 0.33333em 0;
+    width: 2em;
+}
+

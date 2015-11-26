@@ -5,11 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>BDO DEMO</title>
 
-
+	<!--
 	<link rel="stylesheet" href="css/normalize.min.css">
 	<link rel="stylesheet" href="css/reset.css">
+	-->
 	<link rel="stylesheet" href="css/jquery.sidr.light.css">
-	
+	<link rel="stylesheet" href="css/gridforms.css">
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
@@ -17,33 +18,143 @@
 	<header>
 
 		<nav class="nav-bar"> 
-			<h1 class="title"> Nirmal Patel</h1>
+			<!--<h1 class="title"> BDO DEMO</h1> -->
+			<img class="logo" src="images/bdo-logo.png" /> 
+
 
 			<ul class="nav-list">
-				<li><a href="https://www.google.com">Google</a></li>
-				<li><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">YouTube</a></li>
-				<li><a href="http://www.arsenal.com/home">Arsenal FC</a></li>
+			
+				<li class="hamburger"  id="simple-menu" href="#sidr">
+					<span></span>
+					<span></span>
+					<span></span>
+				</li>	
+				<!--<li><a id="simple-menu" href="#sidr">Toggle menu</a></li> -->
+				<li><a href="https://www.google.com">Item Details</a></li>
+				<li><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Item Transactions</a></li>
 			</ul>
 		</nav>			
 
 	</header>	
 
-	<a id="simple-menu" href="#sidr">Toggle menu</a>
+	<div class = "container">
+		
+		<div id="sidr">		  
+		  <ul class="items">
+		  	<!-- Content added from current.js -->
+		  </ul>
+		</div>
 
-	<div id="sidr">
-	  <!-- Your content -->
-	  <ul>
-	    <li><a href="#">List 1</a></li>
-	    <li class="active"><a href="#">List 2</a></li>
-	    <li><a href="#">List 3</a></li>
-	  </ul>
+		<form class="grid-form">
+
+			<br><br>
+
+			<fieldset>
+				<legend>Item Maintenance</legend>
+				<div data-row-span="4">
+					<div data-field-span="3">
+						<label>Item Number</label>
+						<input id="itemnumber" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Inactive</label>
+						<input id="inactive" type="checkbox" disabled="disabled" >  
+					</div>
+				</div>
+				<div data-row-span="1">
+					<div data-field-span="1">
+						<label>Description</label>
+						<input id="description" type="text" readonly="true">
+					</div>
+				</div>
+				<div data-row-span="1">
+					<div data-field-span="1">
+						<label>Short Description</label>
+						<input id="shortdesc" type="text" readonly="true">
+					</div>
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>Generic Description</label>
+						<input id="genericdesc" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Class ID</label>
+						<input id="classid" type="text" readonly="true">
+					</div>
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>Item Type</label>
+						<input id="itemtype" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Quantity Decimals</label>
+						<input id="qtydecimals" type="text" readonly="true">
+					</div>
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>Valuation Method</label>
+						<input id="valmenthod" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Currency Decimals</label>
+						<input id="currdecimals" type="text" readonly="true">
+					</div>					
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>Sales Tax Option</label>
+						<input id="salestax" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Purchase Tax Options</label>
+						<input id="purchtax" type="text" readonly="true">
+					</div>					
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>Tax Schedule ID</label>
+						<input id="taxschedule" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Tax Schedule ID</label>
+						<input id="purchtaxschedule" type="text" readonly="true">
+					</div>					
+				</div>
+				<div data-row-span="2">
+					<div data-field-span="1">
+						<label>U of M Schedule ID</label>
+						<input id="uofmschedule" type="text" readonly="true">
+					</div>
+					<div data-field-span="1">
+						<label>Standard Cost</label>
+						<input id="stdcost" type="text" readonly="true">
+					</div>					
+				</div>
+				<div data-row-span="1">
+					<div data-field-span="1">
+						<label>Current Cost</label>
+						<input id="currcost" type="text" readonly="true">
+					</div>					
+				</div>
+
+			</fieldset>
+
+			<br><br>
+		</form>
+
+
 	</div>
 
-
 	<!-- Include jQuery -->
-	<script src="js/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
 	<!-- Include the Sidr JS -->
-	<script src="js/sidr/jquery.sidr.min.js"></script>
+	<script type="text/javascript" src="js/sidr/jquery.sidr.min.js"></script>
+
+	<!-- Include GridForms JS-->
+	<script type="text/javascript" src="js/gridforms/gridforms.js"></script>
 
 	 <script src="js/main.js"></script>
 	 <script src="js/current.js"></script>

@@ -1,0 +1,68 @@
+{
+   "Status":{
+      "CorrelationId":"0df9ac2ba330404fb687a65caa2f7071",
+      "HttpCode":200
+   },
+   "Payload":[
+    {
+      "ItemNumber": "100XLG",
+      "ItemDescription": "Green Phone",
+      "ItemShortName": "Phone",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "128 SDRAM",
+      "ItemDescription": "128 meg SDRAM",
+      "ItemShortName": "RAM",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "1GPROC",
+      "ItemDescription": "1 Ghz Processor",
+      "ItemShortName": "",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "ACCS-CRD-12WH",
+      "ItemDescription": "Phone Cord - 12' White",
+      "ItemShortName": "Cord",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "ACCS-HDS-2EAR",
+      "ItemDescription": "Headset - Dual Ear",
+      "ItemShortName": "Headset",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "ACCS-RST-DXWH",
+      "ItemDescription": "Shoulder Rest - Deluxe White",
+      "ItemShortName": "Rest",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "PHON-ATT-53BL",
+      "ItemDescription": "Cordless-Attractive 5352-Blue",
+      "ItemShortName": "Attr. 5352-Blu",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "PHON-ATT-53BK",
+      "ItemDescription": "Cordless-Attractive 5352-Black",
+      "ItemShortName": "Attr. 5352 Blk",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "PHON-GTE-5043",
+      "ItemDescription": "Cordless-Grand S5043",
+      "ItemShortName": "Grand Cordless",
+      "ItemType": "SalesInventory"
+    },
+    {
+      "ItemNumber": "WIRE100",
+      "ItemDescription": "Phone Wire",
+      "ItemShortName": "Wire",
+      "ItemType": "SalesInventory"
+    },
+   ]
+}

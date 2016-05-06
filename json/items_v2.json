@@ -23,6 +23,12 @@
       "ItemType": "SalesInventory"
     },
     {
+      "ItemNumber": "2GPROC",
+      "ItemDescription": "2 Ghz Processor",
+      "ItemShortName": "",
+      "ItemType": "SalesInventory"
+    },
+    {
       "ItemNumber": "ACCS-CRD-12WH",
       "ItemDescription": "Phone Cord - 12' White",
       "ItemShortName": "Cord",
@@ -63,6 +69,6 @@
       "ItemDescription": "Phone Wire",
       "ItemShortName": "Wire",
       "ItemType": "SalesInventory"
-    },
+    }
    ]
 }

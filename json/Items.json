@@ -4,65 +4,1865 @@
       "HttpCode":200
    },
    "Payload":[
-    {
-      "ItemNumber": "100XLG",
-      "ItemDescription": "Green Phone",
-      "ItemShortName": "Phone",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "128 SDRAM",
-      "ItemDescription": "128 meg SDRAM",
-      "ItemShortName": "RAM",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "1GPROC",
-      "ItemDescription": "1 Ghz Processor",
-      "ItemShortName": "",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "ACCS-CRD-12WH",
-      "ItemDescription": "Phone Cord - 12' White",
-      "ItemShortName": "Cord",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "ACCS-HDS-2EAR",
-      "ItemDescription": "Headset - Dual Ear",
-      "ItemShortName": "Headset",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "ACCS-RST-DXWH",
-      "ItemDescription": "Shoulder Rest - Deluxe White",
-      "ItemShortName": "Rest",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "PHON-ATT-53BL",
-      "ItemDescription": "Cordless-Attractive 5352-Blue",
-      "ItemShortName": "Attr. 5352-Blu",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "PHON-ATT-53BK",
-      "ItemDescription": "Cordless-Attractive 5352-Black",
-      "ItemShortName": "Attr. 5352 Blk",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "PHON-GTE-5043",
-      "ItemDescription": "Cordless-Grand S5043",
-      "ItemShortName": "Grand Cordless",
-      "ItemType": "SalesInventory"
-    },
-    {
-      "ItemNumber": "WIRE100",
-      "ItemDescription": "Phone Wire",
-      "ItemShortName": "Wire",
-      "ItemType": "SalesInventory"
-    },
+      {
+         "ItemNumber":"0-10W35 ENGINE OIL",
+         "ItemDescription":"10W35 Engine Oil",
+         "ItemShortName":"Oil",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-16\" V-BELT",
+         "ItemDescription":"16\" V-Belt",
+         "ItemShortName":"V-Belt",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-18\" V-BELT",
+         "ItemDescription":"18\" V-Belt",
+         "ItemShortName":"V-Belt",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-20X16X1 FILTER",
+         "ItemDescription":"20\"X16\"X1\" Furnace Filter",
+         "ItemShortName":"Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-20X16X2 FILTER",
+         "ItemDescription":"20\"X16\"X2\" Furnace Filter",
+         "ItemShortName":"Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-20X20X1 FILTER",
+         "ItemDescription":"20\"X20\"X1\" Furnace Filter",
+         "ItemShortName":"Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-20X20X2 FILTER",
+         "ItemDescription":"20\"X20\"X2\" Furnace Filter",
+         "ItemShortName":"Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-4X10 18 GA SHEETMETAL",
+         "ItemDescription":"4'X10' 18 Gauge Sheet Metal",
+         "ItemShortName":"Metal",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-4X10 20 GA SHEETMETAL",
+         "ItemDescription":"4'X10' 18 Gauge Sheet Metal",
+         "ItemShortName":"Metal",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-CARRIER MVP58 FURNACE",
+         "ItemDescription":"Carrier Model MVP58 Gas-Fired Upflow Furnace",
+         "ItemShortName":"Furnace",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-CONDENSER",
+         "ItemDescription":"Carrier Model CV65 Condenser",
+         "ItemShortName":"Condenser",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-GAS FIRED BOILER",
+         "ItemDescription":"Gas-Fired Boiler 45000 BTU",
+         "ItemShortName":"Boiler",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-R-22 FREON",
+         "ItemDescription":"R-22 Freon 30 Pound Cylinder",
+         "ItemShortName":"Freon",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"0-R134A FREON",
+         "ItemDescription":"R-134a Freon 30 Pound Cylinder",
+         "ItemShortName":"Freon",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"1-A3261A",
+         "ItemDescription":"Multi-Core Processor",
+         "ItemShortName":"Processor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"1-A3483A",
+         "ItemDescription":"SIMM EDO 72",
+         "ItemShortName":"SIMM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"100XLG",
+         "ItemDescription":"Green Phone",
+         "ItemShortName":"Phone",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"128 SDRAM",
+         "ItemDescription":"128 meg SDRAM",
+         "ItemShortName":"RAM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"1GPROC",
+         "ItemDescription":"1 Ghz Processor",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"2-A3284A",
+         "ItemDescription":"Dual Core Server",
+         "ItemShortName":"Server",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"24X IDE",
+         "ItemDescription":"24x CD-ROM",
+         "ItemShortName":"CD ROM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"256 SDRAM",
+         "ItemDescription":"256 meg SDRAM",
+         "ItemShortName":"RAM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"2GPROC",
+         "ItemDescription":"2 Ghz Processor",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A2440A",
+         "ItemDescription":"Operating System",
+         "ItemShortName":"Op Sys",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A2969A",
+         "ItemDescription":"1 TB SCSI Raid",
+         "ItemShortName":"SCSI",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A2990A",
+         "ItemDescription":"HSC 2 Expansion Slot",
+         "ItemShortName":"HSC Slot Exp",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A2998A",
+         "ItemDescription":"Rackmount UPS",
+         "ItemShortName":"UPS Rackmount",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A3294A",
+         "ItemDescription":"ECC Memory",
+         "ItemShortName":"Memory",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A3416A",
+         "ItemDescription":"Internal CD-ROM Drive",
+         "ItemShortName":"CD-ROM Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-A3542A",
+         "ItemDescription":"DDS Drive",
+         "ItemShortName":"DDS Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-B3813A",
+         "ItemDescription":"Keyboard",
+         "ItemShortName":"Keyboard",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-B3897A",
+         "ItemDescription":"CD-ROM Media",
+         "ItemShortName":"CD-ROM Media",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-C2786A",
+         "ItemDescription":"Cabinet",
+         "ItemShortName":"Cabinet",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-C2804A",
+         "ItemDescription":"Rackmount Kit",
+         "ItemShortName":"Rackmount",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-C2924A",
+         "ItemDescription":"SCSI Cable",
+         "ItemShortName":"SCSI Cable",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-D2094A",
+         "ItemDescription":"Printer",
+         "ItemShortName":"Printer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-D2657A",
+         "ItemDescription":"Male Adapter",
+         "ItemShortName":"Male Adapter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-D2659A",
+         "ItemDescription":"Female Adapter",
+         "ItemShortName":"Female Adapter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-E4417A",
+         "ItemDescription":"Added using Check Links",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-E4471A",
+         "ItemDescription":"Extractor Fan",
+         "ItemShortName":"Extractor Fan",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-E4472A",
+         "ItemDescription":"Power Dist Unit Installation Kit",
+         "ItemShortName":"Installation Ki",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-E4592A",
+         "ItemDescription":"SurgeArrest Plus",
+         "ItemShortName":"SurgeArrest",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"3-J2094A",
+         "ItemDescription":"RS-232C Modem",
+         "ItemShortName":"RS-232C Modem",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"32 SDRAM",
+         "ItemDescription":"32 meg SDRAM",
+         "ItemShortName":"RAM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"32X IDE",
+         "ItemDescription":"32x CD-ROM",
+         "ItemShortName":"CD ROM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"333PROC",
+         "ItemDescription":"333 Processor",
+         "ItemShortName":"Processor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4-A3351A",
+         "ItemDescription":"4 GB FWD SCSI-2Disk Drive",
+         "ItemShortName":"Disk",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4-A3539A",
+         "ItemDescription":"VGA Color Monitor",
+         "ItemShortName":"VGA Monitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4-A3666A",
+         "ItemDescription":"73GB SCSI disk",
+         "ItemShortName":"Disk Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4-E2094A",
+         "ItemDescription":"Laserjet Printer",
+         "ItemShortName":"Printer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4-E5930A",
+         "ItemDescription":"UPS Power Dist Unit",
+         "ItemShortName":"UPS",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"4.5HD",
+         "ItemDescription":"4.5 gig Hard Drive",
+         "ItemShortName":"Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"400PROC",
+         "ItemDescription":"400 Processor",
+         "ItemShortName":"Processor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"40X IDE",
+         "ItemDescription":"40x CD-ROM",
+         "ItemShortName":"CD ROM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"450PROC",
+         "ItemDescription":"450 Processor",
+         "ItemShortName":"Processor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"5-ASSY",
+         "ItemDescription":"Assembly Labor",
+         "ItemShortName":"Labor Assy",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-CONTRACTS",
+         "ItemDescription":"Service Contract Revenue",
+         "ItemShortName":"Contract Rev",
+         "ItemType":"FlatFee"
+      },
+      {
+         "ItemNumber":"5-DBLLABOR",
+         "ItemDescription":"Doubletime service labor",
+         "ItemShortName":"Doubletime",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-DEPOT",
+         "ItemDescription":"Depot Labor",
+         "ItemShortName":"Labor Depot",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-DIAG",
+         "ItemDescription":"Diagnostics Labor",
+         "ItemShortName":"Labor Diag",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-FEE",
+         "ItemDescription":"Per Call Fee",
+         "ItemShortName":"Per Call Fee",
+         "ItemType":"FlatFee"
+      },
+      {
+         "ItemNumber":"5-HOTLINE",
+         "ItemDescription":"Hotline Labor",
+         "ItemShortName":"Hotline Labor",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-MILEAGE",
+         "ItemDescription":"Mileage",
+         "ItemShortName":"Mileage",
+         "ItemType":"MiscCharges"
+      },
+      {
+         "ItemNumber":"5-OVTLABOR",
+         "ItemDescription":"Overtime service labor",
+         "ItemShortName":"Overtime labor",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-SHIP",
+         "ItemDescription":"Shipping,Stocking Labor",
+         "ItemShortName":"Labor Ship",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-STDLABOR",
+         "ItemDescription":"Standard service labor",
+         "ItemShortName":"Standard labor",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-SUPPLIES",
+         "ItemDescription":"Supplies",
+         "ItemShortName":"Supplies",
+         "ItemType":"MiscCharges"
+      },
+      {
+         "ItemNumber":"5-TEARDOWN",
+         "ItemDescription":"Teardown Labor",
+         "ItemShortName":"Labor Tdown",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"5-TRAVEL",
+         "ItemDescription":"Travel Expenses",
+         "ItemShortName":"Travel Expenses",
+         "ItemType":"MiscCharges"
+      },
+      {
+         "ItemNumber":"5-TVLLABOR",
+         "ItemDescription":"Travel Labor",
+         "ItemShortName":"Travel Labor",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"500PROC",
+         "ItemDescription":"500 Processor",
+         "ItemShortName":"Processor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"512 SDRAM",
+         "ItemDescription":"512 MEG RAM",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"6.5HD",
+         "ItemDescription":"6.5 gig Hard Drive",
+         "ItemShortName":"Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"64 SDRAM",
+         "ItemDescription":"64 meg SDRAM",
+         "ItemShortName":"RAM",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"8.4HD",
+         "ItemDescription":"8.4 gig Hard Drive",
+         "ItemShortName":"Drive",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"A100",
+         "ItemDescription":"Audio System",
+         "ItemShortName":"Audio",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-CRD-12WH",
+         "ItemDescription":"Phone Cord - 12' White",
+         "ItemShortName":"Cord",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-CRD-25BK",
+         "ItemDescription":"Phone Cord - 25' Black",
+         "ItemShortName":"Cord",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-HDS-1EAR",
+         "ItemDescription":"Headset-Single Ear",
+         "ItemShortName":"Headset",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-HDS-2EAR",
+         "ItemDescription":"Headset - Dual Ear",
+         "ItemShortName":"Headset",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-RST-DXBK",
+         "ItemDescription":"Shoulder Rest-Deluxe Black",
+         "ItemShortName":"Rest",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ACCS-RST-DXWH",
+         "ItemDescription":"Shoulder Rest - Deluxe White",
+         "ItemShortName":"Rest",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"AIR CLEANER",
+         "ItemDescription":"Air Cleaner",
+         "ItemShortName":"Air Cleaner",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ALTERNATOR",
+         "ItemDescription":"Alternator",
+         "ItemShortName":"Alternator",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ANSW-ATT-1000",
+         "ItemDescription":"Attractive Answering System 1000",
+         "ItemShortName":"Attractive Answ",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ANSW-PAN-1450",
+         "ItemDescription":"Panache KX-T1450 answer",
+         "ItemShortName":"PAN ANSWER 1",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ANSW-PAN-2460",
+         "ItemDescription":"Panache KX-T2460 answer",
+         "ItemShortName":"PAN ANSWER 2",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ARM",
+         "ItemDescription":"Wood chair arm",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"ASMB-LBR-0001",
+         "ItemDescription":"Labor, Parts Assembly",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"BA100G",
+         "ItemDescription":"Base Assembly",
+         "ItemShortName":"Base Assembly",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BACK ASSEMBLY",
+         "ItemDescription":"Wood chair back assembly",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BACK FABRIC",
+         "ItemDescription":"Chair back fabric",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BACK FRAME",
+         "ItemDescription":"Wood chair back frame",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BAND-LEATHER",
+         "ItemDescription":"Leather watch band",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BAND-METAL",
+         "ItemDescription":"Metal watch band",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BAND-PLASTIC",
+         "ItemDescription":"Plastic watch band",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BARREL ASSEMBLY",
+         "ItemDescription":"Pen barrel assembly",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BATTERY",
+         "ItemDescription":"watch battery",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BELL100",
+         "ItemDescription":"Phone Bellisimo",
+         "ItemShortName":"Bellisimo",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BK MOUSE",
+         "ItemDescription":"Black Mouse",
+         "ItemShortName":"Mouse",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BLACK INK",
+         "ItemDescription":"Black ink cartridge",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BOT100G",
+         "ItemDescription":"Handset Bottom",
+         "ItemShortName":"Phone Handset",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BRAKE CALIPERS",
+         "ItemDescription":"Brake Calipers",
+         "ItemShortName":"Brakes",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BRAKE LINING KIT",
+         "ItemDescription":"Brake Lining Kit",
+         "ItemShortName":"Brakes",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BRAKE PADS",
+         "ItemDescription":"Brake Pads",
+         "ItemShortName":"Brakes",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"BRAKEWEAR",
+         "ItemDescription":"Brake Wear",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"CAP100",
+         "ItemDescription":"Capacitor",
+         "ItemShortName":"Capacitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CB100",
+         "ItemDescription":"Circuit Board",
+         "ItemShortName":"Circuit Board",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CBA100",
+         "ItemDescription":"Circuit Board Assembly",
+         "ItemShortName":"CBoard Assembly",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CDROM",
+         "ItemDescription":"CD ROM drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CHAIR",
+         "ItemDescription":"Standard wooden chair",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CLIP",
+         "ItemDescription":"Pocket pen clip",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"COMPBOOK",
+         "ItemDescription":"Computers Explained",
+         "ItemShortName":"Comp Book",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"COMPDUM",
+         "ItemDescription":"Standard Barebones Computer",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"COMPUTER",
+         "ItemDescription":"standard white computer",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"CORDG",
+         "ItemDescription":"Green Cord",
+         "ItemShortName":"Cord",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"COV100G",
+         "ItemDescription":"Green Cover",
+         "ItemShortName":"Phone Cover",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"DISPLAY",
+         "ItemDescription":"Plastic watch case/display",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"DRIVE ASSY",
+         "ItemDescription":"Drive Assembly",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"DVD",
+         "ItemDescription":"DVD drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"DVD ROM",
+         "ItemDescription":"DVD ROM internal drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"EQ CLEANING",
+         "ItemDescription":"Equipment Cleaning",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"EQ INSPECTION",
+         "ItemDescription":"Equipment Inspection Services",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"EQ REFUELING",
+         "ItemDescription":"Equipment Refueling",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"EQ TRANSPORT",
+         "ItemDescription":"Equipment Transport",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"EXHAUST CLAMP",
+         "ItemDescription":"Exhaust Clamp",
+         "ItemShortName":"Exh Clamp",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"EXHAUST FLANGE",
+         "ItemDescription":"Exhaust Flange",
+         "ItemShortName":"Exh Flange",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"EXHAUST GASKET",
+         "ItemDescription":"Exhaust Gasket",
+         "ItemShortName":"Exh Gasket",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"EXHAUST PIPES",
+         "ItemDescription":"Exhaust Pipe",
+         "ItemShortName":"Exh Pipe",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"EXTERIOR ASSEMBLY",
+         "ItemDescription":"Exterior pen assembly",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FACE-ANALOG",
+         "ItemDescription":"Analog watch face",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FACE-DIGITAL",
+         "ItemDescription":"Digital watch face",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-CAN-9800",
+         "ItemDescription":"Cantata FaxPhone 9800",
+         "ItemShortName":"Cantata Fax",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-FG3-0001",
+         "ItemDescription":"Desktop Fax System",
+         "ItemShortName":"Fax System",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-RIC-060E",
+         "ItemDescription":"Richelieu Fax 60E",
+         "ItemShortName":"Richelieu Fax",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-SHP-0172",
+         "ItemDescription":"Standard UX-172 fax",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-SHP-2100",
+         "ItemDescription":"Standard UX-2100 fax",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-SLK-0172",
+         "ItemDescription":"Sleek UX-172 fax",
+         "ItemShortName":"Sleek Fax 1",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FAXX-SLK-2100",
+         "ItemDescription":"Sleek UX-2100 fax",
+         "ItemShortName":"Sleek Fax 2",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"FRHT-TWO-0001",
+         "ItemDescription":"Freight Charges",
+         "ItemShortName":"Freight",
+         "ItemType":"MiscCharges"
+      },
+      {
+         "ItemNumber":"FTRUB",
+         "ItemDescription":"Rubber Feet",
+         "ItemShortName":"Feet",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HA100G",
+         "ItemDescription":"Green Hand Assembly",
+         "ItemShortName":"Hand Assembly",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HARD DRIVE",
+         "ItemDescription":"Hard Drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HD-20",
+         "ItemDescription":"20 Gig Hard Drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HD-40",
+         "ItemDescription":"40 Gig hard drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HD-60",
+         "ItemDescription":"60 Gig hard drive",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-ACC-0100",
+         "ItemDescription":"Acclaimed Call Center System 100",
+         "ItemShortName":"Call Center",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-ASP-0100",
+         "ItemDescription":"Standard Surge Protector",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-CAB-0001",
+         "ItemDescription":"Central Cabinet",
+         "ItemShortName":"Cabinet",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-CIM-0001",
+         "ItemDescription":"Control interface/Memory",
+         "ItemShortName":"Interface",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-DCD-0001",
+         "ItemDescription":"Assembled Data Card",
+         "ItemShortName":"Data Card",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"HDWR-FGC-0001",
+         "ItemDescription":"Data Card Assembly",
+         "ItemShortName":"Data Card",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-LDS-0001",
+         "ItemDescription":"Network LDS/Card",
+         "ItemShortName":"Card",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-PNL-0001",
+         "ItemDescription":"Control Panel",
+         "ItemShortName":"Panel",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-PRO-4862",
+         "ItemDescription":"Pro processor 4S",
+         "ItemShortName":"Processor 4S",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-PRO-4866",
+         "ItemDescription":"Pro processor 4D",
+         "ItemShortName":"Processor 4D",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-RNG-0001",
+         "ItemDescription":"Ring Generator",
+         "ItemShortName":"Ringer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-SBD-0001",
+         "ItemDescription":"Switchboard",
+         "ItemShortName":"Switchbrd",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-SRG-0001",
+         "ItemDescription":"Surge Protector Panel",
+         "ItemShortName":"Surge Protector",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-SWM-0100",
+         "ItemDescription":"Switching Module (<100)",
+         "ItemShortName":"Small Switch",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-SWM-0250",
+         "ItemDescription":"Switching Module (100-250)",
+         "ItemShortName":"Large Switch",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-T1I-0001",
+         "ItemDescription":"T1 Interface Kit",
+         "ItemShortName":"T1 Kit",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"HDWR-TPS-0001",
+         "ItemDescription":"Tape Unit/Mass Storage",
+         "ItemShortName":"Storage",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"INST-TWO-0001",
+         "ItemDescription":"Installation",
+         "ItemShortName":"",
+         "ItemType":"FlatFee"
+      },
+      {
+         "ItemNumber":"INSURANCE ALLOCATION",
+         "ItemDescription":"Rental Insurance Allocation",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"ITCT-CIR-CD85",
+         "ItemDescription":"Integrated Circuit, PCD85-1",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"KB104",
+         "ItemDescription":"Keyboard",
+         "ItemShortName":"Keyboard",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"KPA100",
+         "ItemDescription":"Keypad Assembly",
+         "ItemShortName":"Keypad Assembly",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"LEG",
+         "ItemDescription":"Wooden chair leg",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"M1500",
+         "ItemDescription":"15\" Monitor",
+         "ItemShortName":"Monitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"M1700",
+         "ItemDescription":"17\" Monitor",
+         "ItemShortName":"Monitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"M2100",
+         "ItemDescription":"21\" Monitor",
+         "ItemShortName":"Monitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"MAJOR001",
+         "ItemDescription":"FAAC MAJOR ITEM 1",
+         "ItemShortName":"FAAC MAJOR 1",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"MAJOR002",
+         "ItemDescription":"FAAC MAJOR ITEM 2",
+         "ItemShortName":"FAAC MAJOR 2",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"MAJOR003",
+         "ItemDescription":"FAAC MAJOR ITEM 3 **INDIVIDUAL**",
+         "ItemShortName":"FAAC MAJOR 3",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"MIC100",
+         "ItemDescription":"Microphone",
+         "ItemShortName":"Mic",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"MISC-TWO-0001",
+         "ItemDescription":"Mileage",
+         "ItemShortName":"",
+         "ItemType":"MiscCharges"
+      },
+      {
+         "ItemNumber":"MUFFLER F4L1011",
+         "ItemDescription":"Muffler Kit with Associated flanges and pipes",
+         "ItemShortName":"Muffler Kit",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OIL FILTER",
+         "ItemDescription":"Oil Filter",
+         "ItemShortName":"Oil Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OIL FILTER 522-524",
+         "ItemDescription":"Oil Filter 522-524",
+         "ItemShortName":"Oil Filter",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OIL PRESSURE GAUGE",
+         "ItemDescription":"Oil Pressure Gauge 522-524",
+         "ItemShortName":"Oil Gauge",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM01373",
+         "ItemDescription":"Light Cordless 1",
+         "ItemShortName":"Headset",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM02536",
+         "ItemDescription":"Digital Answering Machine with Caller ID",
+         "ItemShortName":"Ans. Machine",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM02865",
+         "ItemDescription":"Digital Cordless Headset Phone",
+         "ItemShortName":"Phone",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM03215",
+         "ItemDescription":"Dual Basic Headset",
+         "ItemShortName":"Headset",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM04586",
+         "ItemDescription":"Multifunctional Fax Machine 1",
+         "ItemShortName":"Fax",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM05849",
+         "ItemDescription":"Multifunctional Fax Machine 2",
+         "ItemShortName":"Fax Machine",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08529",
+         "ItemDescription":"Conference Call Phone 1",
+         "ItemShortName":"Conference Call",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08539",
+         "ItemDescription":"Conference Call Phone 2",
+         "ItemShortName":"Conference Call",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08570",
+         "ItemDescription":"Home Desktop Tower PC 1",
+         "ItemShortName":"DesktopComputer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08575",
+         "ItemDescription":"Home Desktop Tower PC 2",
+         "ItemShortName":"DesktopComputer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08580",
+         "ItemDescription":"Home Desktop Tower PC 3",
+         "ItemShortName":"DesktopComputer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08585",
+         "ItemDescription":"Home Laptop PC 1",
+         "ItemShortName":"Notebook",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08590",
+         "ItemDescription":"Home Laptop PC 2",
+         "ItemShortName":"Notebook",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08595",
+         "ItemDescription":"Home Laptop PC 3",
+         "ItemShortName":"Notebook",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08600",
+         "ItemDescription":"Business Desktop PC 1",
+         "ItemShortName":"DesktopComputer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08605",
+         "ItemDescription":"Business Desktop PC 2",
+         "ItemShortName":"DesktopComputer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08610",
+         "ItemDescription":"Business Laptop PC 1",
+         "ItemShortName":"Notebook",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08615",
+         "ItemDescription":"Business Laptop PC 2",
+         "ItemShortName":"Notebook",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08620",
+         "ItemDescription":"Office Chair 1",
+         "ItemShortName":"Chair",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08625",
+         "ItemDescription":"Office Chair 2",
+         "ItemShortName":"Chair",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08640",
+         "ItemDescription":"Office Table 1",
+         "ItemShortName":"Table",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08645",
+         "ItemDescription":"Office Table 2",
+         "ItemShortName":"Table",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08665",
+         "ItemDescription":"Office Shelf 1",
+         "ItemShortName":"Shelf",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08670",
+         "ItemDescription":"Office Shelf 2",
+         "ItemShortName":"Shelf",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08685",
+         "ItemDescription":"Office Cabinet 1",
+         "ItemShortName":"Cabinet",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08690",
+         "ItemDescription":"Office Cabinet 2",
+         "ItemShortName":"Cabinet",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08710",
+         "ItemDescription":"Office Locker 1",
+         "ItemShortName":"Locker",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OM08715",
+         "ItemDescription":"Office Locker 2",
+         "ItemShortName":"Locker",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OVERHEAD001",
+         "ItemDescription":"FAAC OVERHEAD ITEM 1",
+         "ItemShortName":"FAAC OH 1",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"OVERHEAD002",
+         "ItemDescription":"FAAC OVERHEAD ITEM 2",
+         "ItemShortName":"FAAC OH 2",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-320",
+         "ItemDescription":"John Deere 320 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-322",
+         "ItemDescription":"Caterpillar 322 Hydraulic Excavator",
+         "ItemShortName":"Excavator",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-328",
+         "ItemDescription":"John Deere 328 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-463",
+         "ItemDescription":"Ingersoll-Rand Bobcat 463 Skid Steer Loader",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-924G",
+         "ItemDescription":"Caterpillar 924G Wheel Loader",
+         "ItemShortName":"Wheel Loader",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-BH55",
+         "ItemDescription":"Ingersoll-Rand Bobcat Back Hoe for 463 Skid Steer",
+         "ItemShortName":"Backhoe",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-C35",
+         "ItemDescription":"Clark C35 Internal Combustion Pneumatic Tire Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-CB55",
+         "ItemDescription":"Ingersoll-Rand Bobcat CB Combination Bucket",
+         "ItemShortName":"Combo Bucket",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-ERC-HG",
+         "ItemDescription":"Yale ERC-HG Electric Rider Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-JLG35L",
+         "ItemDescription":"JLG 35L Rough Terrain Scissor Lift",
+         "ItemShortName":"Scissor Lift",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-MT55",
+         "ItemDescription":"Ingersoll-Rand Bobcat MT55 Angle Broom",
+         "ItemShortName":"Angle Broom",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-NPR 15D",
+         "ItemDescription":"Clark NPR 15D Narrow Aisle Standup Reach Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-NTA-SA",
+         "ItemDescription":"Yale NTA-SA Narrow Aisle Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-S300",
+         "ItemDescription":"Bobcat S300 Skid Steer Loader",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"P-TRENCHER",
+         "ItemDescription":"Trencher Attachment",
+         "ItemShortName":"Trencher",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PAINT",
+         "ItemDescription":"out-sourced painting",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"PEN",
+         "ItemDescription":"Fancy pen",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PEN CAP",
+         "ItemDescription":"Metal cap for pen",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHAN-FAX-0001",
+         "ItemDescription":"Fax Machine Package",
+         "ItemShortName":"Fax Pkg",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHAN-PHN-0001",
+         "ItemDescription":"Standard Phone Package",
+         "ItemShortName":"Phone Pkg",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"PHON-ATT-0712",
+         "ItemDescription":"Attractive 712 wall phone",
+         "ItemShortName":"Attractive Wall",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-ATT-5354",
+         "ItemDescription":"Cordless-Attractive 5354",
+         "ItemShortName":"Attr. 5354",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-ATT-53BK",
+         "ItemDescription":"Cordless-Attractive 5352-Black",
+         "ItemShortName":"Attr. 5352 Blk",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-ATT-53BL",
+         "ItemDescription":"Cordless-Attractive 5352-Blue",
+         "ItemShortName":"Attr. 5352-Blu",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-ATT-53RD",
+         "ItemDescription":"Cordless-Attractive 5352-Red",
+         "ItemShortName":"Attr. 5352-Red",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-ATT-53WH",
+         "ItemDescription":"Cordless-Attractive 5352-White",
+         "ItemShortName":"Attr. 5352-Wht",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-BAS-0001",
+         "ItemDescription":"Phone Base",
+         "ItemShortName":"Base",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-BUS-1244",
+         "ItemDescription":"Handset, 4-line Desk",
+         "ItemShortName":"Business 4",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-BUS-1250",
+         "ItemDescription":"Handset,multi-line",
+         "ItemShortName":"Business mult",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-FGD-0001",
+         "ItemDescription":"Phones-Hands Free Dual Ear",
+         "ItemShortName":"Phone Dual",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-FGS-0002",
+         "ItemDescription":"Phone-Hands Free Single Ear",
+         "ItemShortName":"Phone Single",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-GTE-3458",
+         "ItemDescription":"Memory-Grand M3458",
+         "ItemShortName":"Grand Memory",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-GTE-5043",
+         "ItemDescription":"Cordless-Grand S5043",
+         "ItemShortName":"Grand Cordless",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-PAN-2315",
+         "ItemDescription":"Panache KX-T231 wall",
+         "ItemShortName":"Panache Wall",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-PAN-3155",
+         "ItemDescription":"Panache KX-T3155 desk",
+         "ItemShortName":"Panache Desk",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-PAN-3848",
+         "ItemDescription":"Cordless-Panache KX-T3848",
+         "ItemShortName":"Panache 3848",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-RCV-0001",
+         "ItemDescription":"Receiver-Hands Free Dual Ear",
+         "ItemShortName":"Receiver Dual",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-RCV-0002",
+         "ItemDescription":"Receiver-Hands Free Single Ear",
+         "ItemShortName":"Receiver Single",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHON-SNY-1250",
+         "ItemDescription":"Phone/Answ System 1250",
+         "ItemShortName":"Phone Answer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PHSY-DEL-0001",
+         "ItemDescription":"Deluxe Phone System",
+         "ItemShortName":"Deluxe System",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"PHSY-STD-0001",
+         "ItemDescription":"Standard Phone System",
+         "ItemShortName":"Std. system",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"PRCT-CIR-0001",
+         "ItemDescription":"Printed Circuit  Board",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PRO1",
+         "ItemDescription":"Pro Computer",
+         "ItemShortName":"Computer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"PSYS-FG1-0001",
+         "ItemDescription":"Phone System 1",
+         "ItemShortName":"Phone System",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"R-22 FREON",
+         "ItemDescription":"R-22 Freon",
+         "ItemShortName":"Freon",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"R-320",
+         "ItemDescription":"John Deere 320 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-328",
+         "ItemDescription":"John Deere 328 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-463",
+         "ItemDescription":"Ingersoll-Rand Bobcat 463 Skid Steer Loader",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-C35",
+         "ItemDescription":"Clark C35 Internal Combustion Pneumatic Tire Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-ERC-HG",
+         "ItemDescription":"Yale ERC-HG Electric Rider Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-NPR 15D",
+         "ItemDescription":"Clark NPR 15D Narrow Aisle Standup Reach Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-NTA-SA",
+         "ItemDescription":"Yale NTA-SA Narrow Aisle Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-S300",
+         "ItemDescription":"Ingersoll-Rand Bobcat S300 Skid Steer Loader",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"R-TRENCHER",
+         "ItemDescription":"Trencher Rental Item",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"REEFERFUEL",
+         "ItemDescription":"Reefer Fuel",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"REEFERHRS",
+         "ItemDescription":"Reefer Hours",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"REPR-TWO-0001",
+         "ItemDescription":"In-shop Repair",
+         "ItemShortName":"Repair In",
+         "ItemType":"FlatFee"
+      },
+      {
+         "ItemNumber":"REPR-TWO-0002",
+         "ItemDescription":"On-site Repair",
+         "ItemShortName":"Repair Out",
+         "ItemType":"FlatFee"
+      },
+      {
+         "ItemNumber":"RES100",
+         "ItemDescription":"Resistor",
+         "ItemShortName":"Resistor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"RESR-COM-68KM",
+         "ItemDescription":"Resistor-68KM Revised",
+         "ItemShortName":"Resistor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"RESR-TRR-68KM",
+         "ItemDescription":"Resistor, 6.8 Kohm",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"RMTL-CAP-10MF",
+         "ItemDescription":"Capacitor, .10mF",
+         "ItemShortName":"Capacitor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"S-320",
+         "ItemDescription":"John Deere 320 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-322",
+         "ItemDescription":"Caterpillar 322 Excavator",
+         "ItemShortName":"Excavator",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-328",
+         "ItemDescription":"John Deere 328 Construction Skid Steer",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-463",
+         "ItemDescription":"Ingersoll-Rand 463 Bobcat Skid Steer Loader",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-924G",
+         "ItemDescription":"Caterpillar 924G Wheel Loader",
+         "ItemShortName":"Wheel Loader",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-C35",
+         "ItemDescription":"Clark C35 Fork Lift Sales Item",
+         "ItemShortName":"Fork Lift",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-ERC-HG",
+         "ItemDescription":"ERC-HG SALES KIT",
+         "ItemShortName":"Fork Lift",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-JLG35L",
+         "ItemDescription":"JLG 35L Rough Terrain Scissor Lift",
+         "ItemShortName":"Scissor Lift",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-NPR 15D",
+         "ItemDescription":"Clark NPR 15D Narrow Aisle Standup Reach Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-NTA-SA",
+         "ItemDescription":"Yale NTA-SA Narrow Aisle Lift Truck",
+         "ItemShortName":"Lift Truck",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-S300",
+         "ItemDescription":"Bobcat S300 Sales Kit Item",
+         "ItemShortName":"Skid Steer",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"S-TRENCHER",
+         "ItemDescription":"Trencher Attachment",
+         "ItemShortName":"",
+         "ItemType":"Kit"
+      },
+      {
+         "ItemNumber":"SCAN100F",
+         "ItemDescription":"Scanner",
+         "ItemShortName":"Scanner",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SEAT ASSEMBLY",
+         "ItemDescription":"Wooden chair seat assembly",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SEAT FABRIC",
+         "ItemDescription":"Blue fabric for wooden chair",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SEAT FRAME",
+         "ItemDescription":"Wood seat frame",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SOFT-PHM-0001",
+         "ItemDescription":"Phone Mail System",
+         "ItemShortName":"Phone Mail",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SOLDER",
+         "ItemDescription":"Solder",
+         "ItemShortName":"Solder",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SPK100",
+         "ItemDescription":"Speaker",
+         "ItemShortName":"Speaker",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"SPLN-TWO-0001",
+         "ItemDescription":"Service Plans-Phone Systems",
+         "ItemShortName":"Phone plans",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"SPLN-TWO-0002",
+         "ItemDescription":"Service Plans - Equipment",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"SPRING",
+         "ItemDescription":"Metal spring for pen",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"STYLE-M",
+         "ItemDescription":"Mens style custom watch",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"STYLE-W",
+         "ItemDescription":"Womens style custom watch",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TIRECHG",
+         "ItemDescription":"Tire Change",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"TIREWEAR",
+         "ItemDescription":"Tire Wear",
+         "ItemShortName":"",
+         "ItemType":"Services"
+      },
+      {
+         "ItemNumber":"TOP100G",
+         "ItemDescription":"Handset Top",
+         "ItemShortName":"Handset Top",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TRAN-STR-N394",
+         "ItemDescription":"Transistor,2N394",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TRANS100",
+         "ItemDescription":"Transistor",
+         "ItemShortName":"Transistor",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TRANSF100",
+         "ItemDescription":"Transformer",
+         "ItemShortName":"Transformer",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TRANSMISSION COVER",
+         "ItemDescription":"Transmission Cover",
+         "ItemShortName":"Transmission",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"TRANSMISSION FLUID",
+         "ItemDescription":"Transmission Fluid",
+         "ItemShortName":"Transmission",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"VMSY-FG2-0001",
+         "ItemDescription":"Voice Mail System",
+         "ItemShortName":"Voice Mail",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"WATCH",
+         "ItemDescription":"Custom watch",
+         "ItemShortName":"",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"WIRE-MCD-0001",
+         "ItemDescription":"Multi conductor wire",
+         "ItemShortName":"Multi wire",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"WIRE-SCD-0001",
+         "ItemDescription":"Single conductor wire",
+         "ItemShortName":"Single wire",
+         "ItemType":"SalesInventory"
+      },
+      {
+         "ItemNumber":"WIRE100",
+         "ItemDescription":"Phone Wire",
+         "ItemShortName":"Wire",
+         "ItemType":"SalesInventory"
+      }
    ]
 }
